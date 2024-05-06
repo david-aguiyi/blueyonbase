@@ -858,6 +858,13 @@ input::-ms-selection {
 	width: 100%;
 	text-align: center;
 }
+
+.dext img{
+	width: 100%;
+	text-align:left;
+margin-top: -10rem;
+
+}
 .fcard2 {
 	padding: 30px;
 	background-color: #366cb4;
@@ -886,7 +893,6 @@ button.buy {
 	display: flex;
 	justify-content: space-around;
 	row-gap: 20px;
-	5: 500;
 	flex-direction: column;
 	align-items: center;
 	margin-top: 3rem;
