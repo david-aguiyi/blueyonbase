@@ -854,6 +854,10 @@ input::-ms-selection {
 	text-decoration-thickness: 5px;
 }
 
+.dex img{
+	width: 100%;
+	text-align: center;
+}
 .fcard2 {
 	padding: 30px;
 	background-color: #366cb4;
@@ -1093,7 +1097,7 @@ button img {
 	}
 
 	.pimg{
-		
+
 	}
 	header {
 		margin-top: -0.5rem;
